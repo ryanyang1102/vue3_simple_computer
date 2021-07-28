@@ -1,0 +1,141 @@
+.btn-orange {
+  background-color: #F39231;
+  color: #fff;
+}
+
+.btn-orange:hover {
+  background-color: #cc6c0c;
+}
+
+.btn-orange:focus {
+  border: 2px solid rgba(243, 146, 49, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(243, 146, 49, 0.25);
+          box-shadow: 0 0 0 0.25rem rgba(243, 146, 49, 0.25);
+}
+
+.btn-gray {
+  background-color: #A8A8A8;
+  color: #fff;
+}
+
+.btn-gray:hover {
+  background-color: #828282;
+}
+
+.btn-gray:focus {
+  border: 2px solid rgba(168, 168, 168, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(168, 168, 168, 0.25);
+          box-shadow: 0 0 0 0.25rem rgba(168, 168, 168, 0.25);
+}
+
+.btn-dark {
+  background-color: #333333;
+  color: #fff;
+}
+
+.btn-dark:hover {
+  background-color: #0d0d0d;
+  background-color: #595959;
+}
+
+.btn-dark:focus {
+  border: 2px solid rgba(51, 51, 51, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(51, 51, 51, 0.25);
+          box-shadow: 0 0 0 0.25rem rgba(51, 51, 51, 0.25);
+}
+
+.btn-outline-orange {
+  background: transparent;
+  color: #F39231;
+  border: 1px solid #F39231;
+}
+
+.btn-outline-orange:hover {
+  background-color: #F39231;
+  color: #fff;
+}
+
+.btn-outline-orange:focus {
+  border: 2px solid rgba(243, 146, 49, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(243, 146, 49, 0.25);
+          box-shadow: 0 0 0 0.25rem rgba(243, 146, 49, 0.25);
+}
+
+.btn-outline-gray {
+  background: transparent;
+  color: #A8A8A8;
+  border: 1px solid #A8A8A8;
+}
+
+.btn-outline-gray:hover {
+  background-color: #A8A8A8;
+  color: #fff;
+}
+
+.btn-outline-gray:focus {
+  border: 2px solid rgba(168, 168, 168, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(168, 168, 168, 0.25);
+          box-shadow: 0 0 0 0.25rem rgba(168, 168, 168, 0.25);
+}
+
+.btn-outline-dark {
+  background: transparent;
+  color: #333333;
+  border: 1px solid #333333;
+}
+
+.btn-outline-dark:hover {
+  background-color: #333333;
+  color: #fff;
+}
+
+.btn-outline-dark:focus {
+  border: 2px solid rgba(51, 51, 51, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(51, 51, 51, 0.25);
+          box-shadow: 0 0 0 0.25rem rgba(51, 51, 51, 0.25);
+}
+
+.btn-sm {
+  padding: 4px 12px;
+  font-size: 12px;
+}
+
+.btn-lg {
+  padding: 18px 20px;
+  font-size: 24px;
+}
+
+.container {
+  max-width: 420px;
+}
+
+.btn {
+  border-radius: 40px;
+}
+
+.screenValue {
+  font-size: 80px;
+}
+
+.history {
+  position: relative;
+  width: 100%;
+}
+
+.trash {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.history_title {
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+
+.history_list {
+  background-color: #A8A8A8;
+  padding: 5px 15px;
+  border-radius: 50px;
+}
+/*# sourceMappingURL=all.css.map */
